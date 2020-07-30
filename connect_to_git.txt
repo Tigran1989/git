@@ -1,0 +1,14 @@
+-----------------------------exampple-----------------------------
+
+echo "# Terraform" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:Tigran1989/Terraform.git
+git push -u origin master
+                
+…or push an existing repository from the command line
+git remote add origin git@github.com:Tigran1989/Terraform.git
+git push -u origin master
+
+-----------------------------exampple-----------------------------
